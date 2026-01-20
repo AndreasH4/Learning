@@ -1,4 +1,4 @@
-# Learnings
+# Learning
 
 ## Malware Development
 
